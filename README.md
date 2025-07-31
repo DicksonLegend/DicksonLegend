@@ -31,7 +31,7 @@ Concepts:         Data Analysis, Machine Learning, AI, Prompt Engineering, APIs
 ```
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,,html,css,java,git,github,mongodb,postgres,powershell,vscode," />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,git,github,mongodb,postgres,powershell,vscode," />
 </p>
 
 ---
