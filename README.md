@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/dickson-e" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dicksone.netlify.app" target="_blank">
+  <a href="https://dicksone.qzz.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23663399.svg?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
@@ -64,6 +64,6 @@ Concepts:         Data Analysis, Machine Learning, AI, Prompt Engineering, APIs
 ### 📬 Connect with Me
 
 - LinkedIn: [linkedin.com/in/dickson-e](https://www.linkedin.com/in/dickson-e)  
-- Portfolio: [dicksone.netlify.app](https://dicksone.netlify.app)
+- Portfolio: [https://dicksone.qzz.io](https://dicksone.qzz.io)
 
 ---
