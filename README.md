@@ -116,7 +116,7 @@ Focus_Areas:
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dicksonlegend&theme=tokyonight&no-frame=true&no-bg=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dicksonlegend&theme=flat&no-frame=true&column=7"/>
 
 </div>
 
