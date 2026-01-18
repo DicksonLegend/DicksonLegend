@@ -104,10 +104,10 @@ Focus_Areas:
 <div align="center">
 
 <a href="https://github.com/dicksonlegend">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dicksonlegend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dicksonlegend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
 <a href="https://github.com/dicksonlegend">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicksonlegend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dicksonlegend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
 
 <br><br>
@@ -116,7 +116,7 @@ Focus_Areas:
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dicksonlegend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dicksonlegend&theme=onestar&no-frame=true&column=7"/>
 
 </div>
 
