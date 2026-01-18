@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Header Banner with Purple Gradient - Fixed URL encoding -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24&text=DICKSON%20E&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&section=header" width="100%"/>
+<!-- Header Banner with Purple Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&text=DICKSON%20E&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&section=header" width="100%"/>
 
 <h3>AI & Data Science | Data Analyst | AI Engineer</h3>
 <em>Building intelligent, data-driven solutions</em>
 
-<br><br>
+<br>
 
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/dickson-e">
@@ -39,6 +39,8 @@
 🤖 **Building AI-powered applications & dashboards** with modern tech stacks
 
 💡 **Exploring cutting-edge technologies** in ML, NLP, and Data Analytics
+
+🔥 **Open to internships and collaboration** on AI/ML projects
 
 <br clear="right"/>
 
@@ -101,13 +103,20 @@ Focus_Areas:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dicksonlegend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)
+<a href="https://github.com/dicksonlegend">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dicksonlegend&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+<a href="https://github.com/dicksonlegend">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicksonlegend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dicksonlegend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9)
+<br><br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dicksonlegend&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dicksonlegend&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dicksonlegend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dicksonlegend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
 
