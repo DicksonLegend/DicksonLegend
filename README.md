@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Simple Text Header -->
-# 💜 DICKSON E
-
-### AI & Data Science | Data Analyst | AI Engineer
-*Building intelligent, data-driven solutions*
+<!-- Header Banner with Purple Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=DICKSON%20E&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20|%20Data%20Analyst%20|%20AI%20Engineer&descAlignY=55&descSize=20&descAlign=50" width="100%"/>
 
 <br>
 
@@ -30,7 +27,7 @@
 
 ## 👋 Hi, I'm Dickson
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 🎓 **AI & Data Science undergraduate** at Karunya Institute of Technology and Sciences
 
@@ -101,17 +98,25 @@ Focus_Areas:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dicksonlegend&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9"/>
+<a href="https://github.com/dicksonlegend">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dicksonlegend&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&rank_icon=github"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicksonlegend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
+<a href="https://github.com/dicksonlegend">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicksonlegend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8"/>
+</a>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dicksonlegend&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
+<a href="https://github.com/dicksonlegend">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dicksonlegend&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
+</a>
 
-<br>
+<br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dicksonlegend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<a href="https://github.com/dicksonlegend">
+  <img src="https://github-profile-trophy.vercel.app/?username=dicksonlegend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
@@ -122,6 +127,16 @@ Focus_Areas:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dicksonlegend&bg_color=0d1117&color=a855f7&line=7c3aed&point=a855f7&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🎵 Now Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=a855f7)](https://open.spotify.com/user/31kh5eprxqpxgutxnfxnzl2a72we)
 
 </div>
 
@@ -175,16 +190,21 @@ Focus_Areas:
 
 <div align="center">
 
-<!-- Note: Snake animation will appear after GitHub Action runs -->
+<!-- Snake Animation - Will appear after first GitHub Action run -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dicksonlegend/dicksonlegend/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dicksonlegend/dicksonlegend/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dicksonlegend/dicksonlegend/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br><br>
+</div>
 
----
+<br>
+
+<div align="center">
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%"/>
 
 **Made with 💜 by Dickson E**
 
