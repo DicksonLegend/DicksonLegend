@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- Dynamic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=DICKSON%20E&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20|%20Data%20Analyst%20|%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<!-- Simple Text Header -->
+# 💜 DICKSON E
+
+### AI & Data Science | Data Analyst | AI Engineer
+*Building intelligent, data-driven solutions*
 
 <br>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent%2C+data-driven+solutions;Turning+data+into+actionable+insights" alt="Typing SVG" /></a>
-
-<br><br>
 
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/dickson-e">
@@ -21,14 +19,12 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br><br>
+<br>
 
 <!-- Visitor Badge -->
 <img src="https://komarev.com/ghpvc/?username=dicksonlegend&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
-
-<br>
 
 ---
 
@@ -63,20 +59,16 @@ Focus_Areas:
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### 📊 Data & AI
 <p>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-</p>
-<p>
+  <br>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-</p>
-<p>
+  <br>
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NLP" />
   <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
@@ -87,24 +79,21 @@ Focus_Areas:
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="MongoDB, PostgreSQL" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="MongoDB PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="React, JavaScript, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="React JavaScript HTML CSS" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VSCode" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
-
-</div>
 
 ---
 
@@ -112,21 +101,27 @@ Focus_Areas:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dicksonlegend&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dicksonlegend&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicksonlegend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicksonlegend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dicksonlegend&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dicksonlegend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dicksonlegend&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak Stats"/>
-
-</div>
+## 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dicksonlegend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dicksonlegend&bg_color=0d1117&color=a855f7&line=7c3aed&point=a855f7&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -158,28 +153,6 @@ Focus_Areas:
 
 ---
 
-## 🎵 What I'm Listening To
-
-<div align="center">
-
-[![Spotify](https://novatorem-dicksonlegend.vercel.app/api/spotify)](https://open.spotify.com/user/31kh5eprxqpxgutxnfxnzl2a72we)
-
-*Note: This will show my currently playing song when active. If not playing, it shows my recent top tracks.*
-
-</div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dicksonlegend&bg_color=0d1117&color=a855f7&line=7c3aed&point=a855f7&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## 📬 Let's Connect!
 
 <div align="center">
@@ -202,15 +175,17 @@ Focus_Areas:
 
 <div align="center">
 
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/dicksonlegend/dicksonlegend/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!-- Note: Snake animation will appear after GitHub Action runs -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dicksonlegend/dicksonlegend/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dicksonlegend/dicksonlegend/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dicksonlegend/dicksonlegend/output/github-contribution-grid-snake.svg">
+</picture>
 
-</div>
-
-<div align="center">
+<br><br>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
+**Made with 💜 by Dickson E**
 
 </div>
