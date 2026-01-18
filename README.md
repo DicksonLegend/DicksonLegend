@@ -114,10 +114,6 @@ Focus_Areas:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dicksonlegend&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dicksonlegend&theme=flat&no-frame=true&column=7"/>
-
 </div>
 
 ---
