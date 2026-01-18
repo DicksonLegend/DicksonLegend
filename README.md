@@ -1,69 +1,216 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Dickson E</h1>
-<h3 align="center">Aspiring Data Analyst | AI & Data Science Student | Project Creator | Lifelong Learner</h3>
+<!-- Dynamic Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=DICKSON%20E&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20|%20Data%20Analyst%20|%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dickson-e" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dicksone.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23663399.svg?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
+<br>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent%2C+data-driven+solutions;Turning+data+into+actionable+insights" alt="Typing SVG" /></a>
+
+<br><br>
+
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/dickson-e">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://dicksone.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:dicksone2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+<!-- Visitor Badge -->
+<img src="https://komarev.com/ghpvc/?username=dicksonlegend&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+<br>
 
 ---
 
-### 🧑‍💻 About Me
+## 👋 Hi, I'm Dickson
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence and Data Science** (2023–2027) at *Karunya Institute of Technology and Sciences*  
-- 🚀 Exploring **Data Analytics**, **AI tools**, **IoT-based Systems**, and **Visualization Platforms**  
-- 💡 Passionate about building intelligent systems that solve real-world problems  
-- 📫 How to reach me: **dicksone2006@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🎓 **AI & Data Science undergraduate** at Karunya Institute of Technology and Sciences
+
+📊 **Passionate about data-driven decision-making** and turning insights into impact
+
+🤖 **Building AI-powered applications & dashboards** with modern tech stacks
+
+💡 **Exploring cutting-edge technologies** in ML, NLP, and Data Analytics
+
+<br clear="right"/>
 
 ---
 
-### 🚀 Tech Stack
+## 🎯 What I'm Currently Focused On
 
-```text
-Languages:        Python, JavaScript, SQL, Java  
-Frameworks/Tools: Power BI, Tableau, Node.js, MongoDB, PostgreSQL, Git & GitHub, HTML, CSS  
-Concepts:         Data Analysis, Machine Learning, AI, Prompt Engineering, APIs  
+```yaml
+Focus_Areas:
+  - 🔍 Advanced Data Analytics & Visualization
+  - 🤖 Machine Learning & NLP systems
+  - 🌐 AI-powered Web Applications (React + APIs)
+  - 📈 Real-world projects & internships
+  - 🚀 Building intelligent, scalable solutions
 ```
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,git,github,mongodb,postgres,powershell,vscode," />
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 📊 Data & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
 </p>
 
----
-
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dicksonlegend&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicksonlegend&layout=compact&theme=tokyonight" />
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="MongoDB, PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
----
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="React, JavaScript, HTML, CSS" />
+</p>
 
-### 🏆 Certifications
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
 
-- ✅ Python, Java Fundamentals, Git & GitHub  
-- ✅ Microsoft Power BI, Tableau Mastery  
-- ✅ Prompt Engineering, Generative AI, Soft Skills  
-- ✅ MongoDB for Developers  
-- ✅ Data Analysis using Python
-
----
-
-### 🧠 Fun Fact
-
-> “I believe in continuous learning and turning ideas into real projects that bring value.”
+</div>
 
 ---
 
-### 📬 Connect with Me
+## 📈 GitHub Stats
 
-- LinkedIn: [linkedin.com/in/dickson-e](https://www.linkedin.com/in/dickson-e)  
-- Portfolio: [dicksone.netlify.app](https://dicksone.netlify.app)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dicksonlegend&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicksonlegend&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dicksonlegend&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak Stats"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dicksonlegend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+
+</div>
 
 ---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Certification | Status |
+|--------------|--------|
+| 🐍 Python, Java Fundamentals, Git & GitHub | ✅ Complete |
+| 📊 Microsoft Power BI, Tableau Mastery | ✅ Complete |
+| 🤖 Prompt Engineering, Generative AI, Soft Skills | ✅ Complete |
+| 🍃 MongoDB for Developers | ✅ Complete |
+| 📈 Data Analysis using Python | ✅ Complete |
+
+</div>
+
+---
+
+## 💭 Quote
+
+<div align="center">
+
+> *"I believe in continuous learning and turning ideas into real projects that bring value."*
+
+</div>
+
+---
+
+## 🎵 What I'm Listening To
+
+<div align="center">
+
+[![Spotify](https://novatorem-dicksonlegend.vercel.app/api/spotify)](https://open.spotify.com/user/31kh5eprxqpxgutxnfxnzl2a72we)
+
+*Note: This will show my currently playing song when active. If not playing, it shows my recent top tracks.*
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dicksonlegend&bg_color=0d1117&color=a855f7&line=7c3aed&point=a855f7&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dickson-e">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://dicksone.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-7C3AED?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="mailto:dicksone2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/dicksonlegend/dicksonlegend/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<div align="center">
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
+
+</div>
