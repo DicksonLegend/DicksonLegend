@@ -3,7 +3,6 @@
 <!-- Dynamic Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=DICKSON%20E&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20|%20Data%20Analyst%20|%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<<<<<<< HEAD
 <br>
 
 <!-- Typing Animation -->
@@ -30,16 +29,6 @@
 </div>
 
 <br>
-=======
-<p align="center">
-  <a href="https://www.linkedin.com/in/dickson-e" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dicksone.qzz.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23663399.svg?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
->>>>>>> 15771d6fc7ffd89532d6d7b116355f68dd7f1feb
 
 ---
 
@@ -145,7 +134,6 @@ Focus_Areas:
 
 ## 🏆 Certifications
 
-<<<<<<< HEAD
 <div align="center">
 
 | Certification | Status |
@@ -157,10 +145,6 @@ Focus_Areas:
 | 📈 Data Analysis using Python | ✅ Complete |
 
 </div>
-=======
-- LinkedIn: [linkedin.com/in/dickson-e](https://www.linkedin.com/in/dickson-e)  
-- Portfolio: [https://dicksone.qzz.io](https://dicksone.qzz.io)
->>>>>>> 15771d6fc7ffd89532d6d7b116355f68dd7f1feb
 
 ---
 
