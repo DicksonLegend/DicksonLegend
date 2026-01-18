@@ -116,7 +116,7 @@ Focus_Areas:
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dicksonlegend&theme=onestar&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dicksonlegend&theme=discord&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -166,7 +166,7 @@ Focus_Areas:
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://dicksone.netlify.app">
+<a href="https://dicksone.qzz.io">
   <img src="https://img.shields.io/badge/Portfolio-View_My_Work-7C3AED?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
 </a>
 
